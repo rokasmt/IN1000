@@ -12,8 +12,10 @@ Introduction to Object-oriented Programming mandatory assignments
 
 --oblig5 Parameters in procedures, parameter transfer and variable scope 
 
---oblig6  
+--oblig6 Introduction of Object Oriented Programming
 
---oblig7
+--oblig7 A program to keep track of all the components of a computer cluster
+
+--oblig8 A program that simulates the life and death of cells (Conway’s Game of Life )
+
  
-
