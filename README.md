@@ -2,14 +2,18 @@
 
 Introduction to Object-oriented Programming mandatory assignments
 
---oblig1 Printing and reading with variables, decisions --
+--oblig1 Printing and reading with variables, decisions 
 
---oblig2 Printing Procedure, Code flow -- 
+--oblig2 Printing Procedure, Code flow 
 
---oblig3 Lists, Dictionaries -- 
---oblig4 Parameters and return values, loops -- 
---oblig5 Parameters in procedures, parameter transfer and variable scope -- 
---oblig6 -- 
---oblig7 --
+--oblig3 Lists, Dictionaries 
+
+--oblig4 Parameters and return values, loops 
+
+--oblig5 Parameters in procedures, parameter transfer and variable scope 
+
+--oblig6  
+
+--oblig7
  
 
