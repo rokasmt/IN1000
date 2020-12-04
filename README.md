@@ -2,7 +2,7 @@
 
 Introduction to Object-oriented Programming mandatory assignments
 
--- oblig1
+-- oblig1 Printing and reading with variables, decisions
 -- oblig2 
 -- oblig3
 -- oblig4
